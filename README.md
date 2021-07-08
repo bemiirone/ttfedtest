@@ -14,4 +14,4 @@ The app was built in a modular way. Making use of a service and components. Much
 
 ## Instructions
 
-Clone the repository and run 'npm install'
+Clone the repository and run 'npm install' in your terminal. Then run 'npm start' then go to http://localhost:4200/ on your browswer
