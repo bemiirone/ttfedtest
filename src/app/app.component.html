@@ -1,0 +1,11 @@
+<div>
+  <div class="test">{{title$ | async}}</div>
+  <mat-card class="card">
+    <mat-card-header>
+      <mat-card-title></mat-card-title>
+    </mat-card-header>
+    <mat-card-content>
+      <app-playlist [playlistData]="playlist$ | async"></app-playlist>
+    </mat-card-content>
+  </mat-card>
+</div>
